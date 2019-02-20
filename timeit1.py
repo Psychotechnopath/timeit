@@ -62,3 +62,4 @@ print("Nested loop:\t{}".format(result_1))                              #that ev
 print("Loop and comp:\t{}".format(result_2))                            #of code. But can be useful with env to complex to setup in single block of code. Generally though, setup
 print("Nested comp: \t{}".format(result_3))                             #argument is better because it works with earlier versions and allows you to be more specific about the env
                                                                         #the code will run in. Store variables in string again, and pass them to setup parameter.
+print("Gotta add some code to check")
